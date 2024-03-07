@@ -1,5 +1,8 @@
 package esercizio2;
 
+import esercizio3.Volontario;
+
+
 public class main {
     public static void main(String[] args){
 

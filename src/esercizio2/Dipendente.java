@@ -1,6 +1,5 @@
 package esercizio2;
 
-
 public abstract class Dipendente {
     private int matricola;
     private double stipendio;
