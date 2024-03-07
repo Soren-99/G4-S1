@@ -1,4 +1,5 @@
 package esercizio2;
+import esercizio2.Dipendente;
 
 public class DipendentePartTime extends Dipendente {
     private int oreLavorate;
