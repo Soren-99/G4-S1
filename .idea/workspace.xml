@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8faa5dad-1db3-4032-a83f-42b8709dbe3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/Dipendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/Main.java" afterDir="false" />
+    <list default="true" id="8faa5dad-1db3-4032-a83f-42b8709dbe3d" name="Changes" comment="Esercizio 1">
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/Dipendente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/DipendenteFullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/DipendentePartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/Dirigente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -60,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709819131883</updated>
     </task>
+    <task id="LOCAL-00001" summary="Esercizio 1">
+      <option name="closed" value="true" />
+      <created>1709820156342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709820156342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1" />
   </component>
 </project>
